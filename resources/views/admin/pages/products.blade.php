@@ -204,7 +204,11 @@
                                                                   <div class="item form-group">
                                                                     <label
                                                                         class="col-form-label col-md-3 col-sm-3 label-align"
+<<<<<<< HEAD
                                                                         for="product-ram">RAM
+=======
+                                                                        for="product-ram">ram
+>>>>>>> 763556696a0beb3d9c90b023dfaed30a70ca85af
                                                                         <span class="required">*</span>
                                                                     </label>
                                                                     <div class="col-md-6 col-sm-6 ">
@@ -217,6 +221,7 @@
                                                                 <div class="item form-group">
                                                                     <label
                                                                         class="col-form-label col-md-3 col-sm-3 label-align"
+<<<<<<< HEAD
                                                                         for="product-rom">ROM
                                                                         <span class="required">*</span>
                                                                     </label>
@@ -245,6 +250,9 @@
                                                                     <label
                                                                         class="col-form-label col-md-3 col-sm-3 label-align"
                                                                         for="product-rom">ROM
+=======
+                                                                        for="product-rom">rom
+>>>>>>> 763556696a0beb3d9c90b023dfaed30a70ca85af
                                                                         <span class="required">*</span>
                                                                     </label>
                                                                     <div class="col-md-6 col-sm-6 ">
